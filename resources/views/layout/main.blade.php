@@ -17,6 +17,12 @@
     </head>
     <body>
         @include('partials.header')
+
+        
+        @yield('jumbotron')
+
+
+
         
         <!-- Main Content-->
         <div class="container px-4 px-lg-5">
