@@ -27,12 +27,25 @@
     <div class="col-md-10 col-lg-8 col-xl-7">
         <!-- Post preview-->
         <div class="post-preview">
-            <a href="post.html">
-                <h2 class="post-title">Test Title</h2>
-                <h3 class="post-subtitle">Problems look mighty small from 150 miles up</h3>
+            <a href="/interaksi-manusia-dan-komputer">
+                <h2 class="post-title">Interaksi Manusia dan Komputer</h2>
+                <h5 class="post-subtitle">Apa itu Interaksi Manusia dan Komputer?</h5>
             </a>
             <p class="post-meta">
-                September 24, 2021
+                21 Maret 2022
+            </p>
+        </div>
+
+        <hr class="my-4" />
+
+
+        <div class="post-preview">
+            <a href="/paradigma-dan-prinsip-usability">
+                <h2 class="post-title">Paradigma dan Prinsip Usability</h2>
+                <h5 class="post-subtitle">Apa itu Paradigma?</h5>
+            </a>
+            <p class="post-meta">
+                23 Maret 2022
             </p>
         </div>
         <!-- Divider-->

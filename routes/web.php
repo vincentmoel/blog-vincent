@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/1', function () {
-    return view('show');
+Route::get('/paradigma-dan-prinsip-usability', function () {
+    return view('paradigma-dan-prinsip-usability');
+});
+
+Route::get('/interaksi-manusia-dan-komputer', function () {
+    return view('interaksi-manusia-dan-komputer');
 });
