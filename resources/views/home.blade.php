@@ -51,6 +51,42 @@
         <!-- Divider-->
         <hr class="my-4" />
         
+        <div class="post-preview">
+            <a href="/komputer">
+                <h2 class="post-title">Komputer</h2>
+                <h5 class="post-subtitle">Apa itu Komputer?</h5>
+            </a>
+            <p class="post-meta">
+                08 April 2022
+            </p>
+        </div>
+        <!-- Divider-->
+        <hr class="my-4" />
+        
+        <div class="post-preview">
+            <a href="/interaksi">
+                <h2 class="post-title">Interaksi</h2>
+                <h5 class="post-subtitle">Apa itu Interaksi?</h5>
+            </a>
+            <p class="post-meta">
+                08 April 2022
+            </p>
+        </div>
+        <!-- Divider-->
+        <hr class="my-4" />
+
+        <div class="post-preview">
+            <a href="/ragam-dialog">
+                <h2 class="post-title">Ragam Dialog</h2>
+                <h5 class="post-subtitle">Apa itu Ragam Dialog?</h5>
+            </a>
+            <p class="post-meta">
+                16 April 2022
+            </p>
+        </div>
+        <!-- Divider-->
+        <hr class="my-4" />
+        
     </div>
 </div>
 

@@ -24,3 +24,15 @@ Route::get('/paradigma-dan-prinsip-usability', function () {
 Route::get('/interaksi-manusia-dan-komputer', function () {
     return view('interaksi-manusia-dan-komputer');
 });
+
+Route::get('/komputer', function () {
+    return view('komputer');
+});
+
+Route::get('/interaksi', function () {
+    return view('interaksi');
+});
+
+Route::get('/ragam-dialog', function () {
+    return view('ragam-dialog');
+});
